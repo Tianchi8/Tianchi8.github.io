@@ -47,6 +47,15 @@
     {% endif %} 
     -->
     
+     {% if post.authors and site.read_more != 'enabled' %}
+     <p>Authors: {{ post.authors }}  </p>
+        {% elsif post.authors and post.paperurl %}
+      <p>Authors: {{ post.authors }} </p>
+    {% elsif post.authors and post.slidesurl %}
+      <p>Authors: {{ post.authors }} </p>
+    {% elsif post.citation %}
+      <p>Authors: {{ post.authors }}</p>
+    {% endif %} 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
@@ -66,15 +75,7 @@
     {% endif %}
 
 
-    {% if post.authors and site.read_more != 'enabled' %}
-     <p>Authors: {{ post.authors }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-        {% elsif post.authors and post.paperurl %}
-      <p>Authors: {{ post.authors }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
-    {% elsif post.authors and post.slidesurl %}
-      <p>Authors: {{ post.authors }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation %}
-      <p>Authors: {{ post.authors }}</p>
-    {% endif %} 
+   
 
     
     {% if post.citation and post.paperurl and post.slidesurl %}
