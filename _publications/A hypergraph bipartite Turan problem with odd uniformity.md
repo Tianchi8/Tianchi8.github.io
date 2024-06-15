@@ -1,6 +1,5 @@
 ---
 title: "A hypergraph bipartite Turan problem with odd uniformity"
-Jie Ma and Tianchi Yang
 collection: publications
 permalink: /publication/hypergraph-bipartite-Turan
 #excerpt: 'This paper is about fixing template issue #693.'
