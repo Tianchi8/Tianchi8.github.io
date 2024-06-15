@@ -49,11 +49,11 @@
     
      {% if post.authors and site.read_more != 'enabled' %}
      <p>Authors: {{ post.authors }}  </p>
-        {% elsif post.authors and post.paperurl %}
+        {% elsif post.authors  %}
       <p>Authors: {{ post.authors }} </p>
-    {% elsif post.authors and post.slidesurl %}
+    {% elsif post.authors %}
       <p>Authors: {{ post.authors }} </p>
-    {% elsif post.citation %}
+    {% elsif post.authors %}
       <p>Authors: {{ post.authors }}</p>
     {% endif %} 
         {% if post.collection == 'teaching' %}
