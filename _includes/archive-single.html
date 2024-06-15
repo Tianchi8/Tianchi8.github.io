@@ -68,6 +68,12 @@
 
     {% if post.authors and site.read_more != 'enabled' %}
      <p>Authors: {{ post.authors }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+        {% elsif post.authors and post.paperurl %}
+      <p>Authors: {{ post.authors }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+    {% elsif post.authors and post.slidesurl %}
+      <p>Authors: {{ post.authors }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
+    {% elsif post.citation %}
+      <p>Authors: {{ post.authors }}</p>
     {% endif %} 
 
     
