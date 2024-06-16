@@ -1,5 +1,5 @@
 ---
-title: "Decomposing $C_4$-free graphs under degree constraints"
+title: "Decomposing C4-free graphs under degree constraints"
 collection: publications
 permalink: /publication/partition-C4-free
 venue: J. Graph Theory, 90 (2019), 13-23.
