@@ -22,11 +22,11 @@ repository               : "Tianchi8/Tianchi8.github.io"
 author:
   # Biographic information
   avatar           : "myphoto.png"
-  name             : "Tianchi"
+  name             : "Tianchi Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "NUS"
   uri              : # URL
   email            : "tcyang@nus.edu.sg" 
 
