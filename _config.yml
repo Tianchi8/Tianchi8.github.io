@@ -24,8 +24,8 @@ author:
   avatar           : "myphoto.png"
   name             : "Tianchi Yang"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "something for nothing"
+  location         : "China"
   employer         : "NUS"
   uri              : # URL
   email            : "tcyang@nus.edu.sg" 
