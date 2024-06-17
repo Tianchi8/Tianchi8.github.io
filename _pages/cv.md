@@ -51,19 +51,27 @@ Publications
   
 Talks
 ======
+<!--
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul>-->
+* Nov. 2023, ICIAM 2023 Tokyo conference, Waseda University, Tokyo, Japan}
+* Apr. 2023, IBS Extremal Combinatorics and Probability Group, South Korea}
+* Nov. 2021, The 6th Workshop on Graph Theory and  Combinatorics, at Shanghai Jiao Tong University, Shanghai, China.}
+* May  2021, International Workshop on Optimization Methods and Combinatorial Algorithms, Lanzhou University, Gansu, China.}
+* Aug. 2020, The 9th Combinatorics and Graph Theory National Conference, Online.}
+* Jul. 2019, Summer Course: Extremal Combinatorics, Shandong University, Shandong, China.}
+* Dec. 2018, SCMS Workshop on Extremal and Structural Graph Theory, Fudan University, Shanghai, China.}
+* Aug. 2018, The 8th Combinatorics and Graph Theory National Conference, Hefei, Anhui, China.}
 Teaching
 ======
 <!--
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
-* {Fall 2020}{Combinatorics, undergraduate,  teaching assistant.}
-* {Spring 2020}{Extremal and Probabilistic Graph Theory, graduate, teaching assistant.}
-* {Spring 2019}{Mathematical Analysis (A2), undergraduate,  teaching assistant.}
-* {Spring 2018}{Mathematical Analysis (A2), undergraduate,  teaching assistant.}
+* Fall 2020, Combinatorics, undergraduate,  teaching assistant.
+* Spring 2020, Extremal and Probabilistic Graph Theory, graduate, teaching assistant.
+* Spring 2019, Mathematical Analysis (A2), undergraduate,  teaching assistant.
+* Spring 2018, Mathematical Analysis (A2), undergraduate,  teaching assistant.
 
  
