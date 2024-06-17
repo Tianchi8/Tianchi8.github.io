@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D in National University of Singapore (NUS), 2024
+* M.S. in University of Science and Technology of China (USTC), 2022
+* B.S. in University of Science and Technology of China (USTC), 2017
+  
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,7 +32,7 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1
@@ -40,6 +41,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
@@ -55,10 +57,13 @@ Talks
   
 Teaching
 ======
+<!--
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul>-->
+* {Fall 2020}{Combinatorics, undergraduate,  teaching assistant.}
+* {Spring 2020}{Extremal and Probabilistic Graph Theory, graduate, teaching assistant.}
+* {Spring 2019}{Mathematical Analysis (A2), undergraduate,  teaching assistant.}
+* {Spring 2018}{Mathematical Analysis (A2), undergraduate,  teaching assistant.}
+
+ 
