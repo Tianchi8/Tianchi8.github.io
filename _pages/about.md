@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research fellow in National University of Singapore (NUS). My research interest includes graph theory, combinatorics, and so on.
- 
+I'm a Research Fellow in Departement of Mathmatics at National University of Singapore (NUS). 
+My research interest includes graph theory, combinatorics, and related areas.
+I received my PhD bachelor’s degree from University of Science and Technology of China (USTC).
 
-1
-======
+
+
 
  
