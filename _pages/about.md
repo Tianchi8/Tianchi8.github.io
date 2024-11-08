@@ -9,10 +9,12 @@ redirect_from:
 
 I'm a Research Fellow in Departement of Mathmatics at National University of Singapore (NUS). 
 My research interest includes graph theory, combinatorics, and related areas.
-I received my PhD bachelor’s degree from University of Science and Technology of China (USTC).
+
+I received my PhD and BSc from University of Science and Technology of China (USTC).
 
 
 Email: tcyang(at)nus.edu.sg
+
 Office: S17, Kent Ridge, NUS
 
  
