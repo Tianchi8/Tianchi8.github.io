@@ -6,15 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a Research Fellow in Departement of Mathmatics at National University of Singapore (NUS). 
-My research interest includes graph theory, combinatorics, and related areas.
-
-I received my PhD and BSc from University of Science and Technology of China (USTC).
+I am currently a Visiting Assistant Professor (VAP) at Georgia Institute of Technology (GT). Prior to this, I received both my Ph.D. and B.Sc. from the University of Science and Technology of China (USTC). I was also a Research Fellow in the Department of Mathematics at the National University of Singapore (NUS).
+My research interests lie in graph theory, combinatorics, and related areas.
 
 
-Email: tcyang(at)nus.edu.sg
 
-Office: S17, Kent Ridge, NUS
+Email: tyang439(at)gatech.edu
+
+Office: Skiles 021, Gatech, US
 
  
