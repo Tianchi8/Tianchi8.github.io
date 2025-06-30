@@ -68,12 +68,14 @@ Talks
 * Jul. 2019, Summer Course: Extremal Combinatorics, Shandong University, Shandong, China.}
 * Dec. 2018, SCMS Workshop on Extremal and Structural Graph Theory, Fudan University, Shanghai, China.}
 * Aug. 2018, The 8th Combinatorics and Graph Theory National Conference, Hefei, Anhui, China.}
+  
 Teaching
 ======
-<!--
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>-->
+  {% endfor %}</ul>
+  
 * Fall 2020, Combinatorics, undergraduate,  teaching assistant.
 * Spring 2020, Extremal and Probabilistic Graph Theory, graduate, teaching assistant.
 * Spring 2019, Mathematical Analysis (A2), undergraduate,  teaching assistant.
