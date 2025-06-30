@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course : Applied Combinatorics (M3012)"
 permalink: /teaching/2025-spring-teaching
 venue: "Math, GT"
-date: 2025 Spring
+date: "2025 Spring"
 location: "GA, US"
 ---
 
