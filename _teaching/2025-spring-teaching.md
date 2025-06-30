@@ -1,10 +1,11 @@
 ---
-title: "Lecture"
+title: "Applied Combinatorics (MATH 3012)"
 collection: teaching
-type: "Undergraduate course : Applied Combinatorics (M3012)"
+type: "Course Instructor"
 permalink: /teaching/2025-spring-teaching
-venue: "Math, GT"
-location: "GA, US"
+venue: "School of Mathematics, Georgia Institute of Technology"
+date: 2025-01-01
+location: "Atlanta, GA, USA"
 ---
 
 I taught the undergraduate course Applied Combinatorics (MATH 3012) at the School of Mathematics, Georgia Institute of Technology, in Spring 2025.
