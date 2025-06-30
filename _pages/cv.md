@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in National University of Singapore (NUS), 2024
-* M.S. in University of Science and Technology of China (USTC), 2022
-* B.S. in University of Science and Technology of China (USTC), 2017
+* Postdoc(VAP) in Georgia Institute of Technology, 2024--Now
+* Postdoc(Research Fellow) in National University of Singapore (NUS), 2022--2024
+* Ph.D. in University of Science and Technology of China (USTC), 2017--2022
+* B.S. in University of Science and Technology of China (USTC), 2013--2017
   
 <!--
 Work experience
@@ -55,6 +56,10 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>-->
+  
+* June. 2025, Frontiers in Combinatorics and Theoretical Computer Science, Hangzhou, China}
+* March. 2025, AMS conference, Clemson University, US}
+* Nov. 2024, Combinatorics conference, National University of Singapore, Singapore}
 * Nov. 2023, ICIAM 2023 Tokyo conference, Waseda University, Tokyo, Japan}
 * Apr. 2023, IBS Extremal Combinatorics and Probability Group, South Korea}
 * Nov. 2021, The 6th Workshop on Graph Theory and  Combinatorics, at Shanghai Jiao Tong University, Shanghai, China.}
