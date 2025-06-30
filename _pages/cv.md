@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Postdoc(VAP) in Georgia Institute of Technology, 2024--Now
-* Postdoc(Research Fellow) in National University of Singapore (NUS), 2022--2024
-* Ph.D. in University of Science and Technology of China (USTC), 2017--2022
-* B.S. in University of Science and Technology of China (USTC), 2013--2017
+* Postdoc(VAP), School of Mathematics, Georgia Institute of Technology, 2024--Now
+* Postdoc(Research Fellow), School of Mathematics, National University of Singapore (NUS), 2022--2024
+* Ph.D. in Mathematics, School of Mathematics, University of Science and Technology of China (USTC), 2017--2022
+* B.S. in Mathematics, School of the Gifted Young, University of Science and Technology of China (USTC), 2013--2017
   
 <!--
 Work experience
